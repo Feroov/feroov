@@ -3,15 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Feroov&show_icons=true](https://github-readme-stats.vercel.app/api?username=Feroov&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" alt="GitHub stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroov&theme=dark&hide_border=false" alt="GitHub stats">
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div align="center">
   <!-- Your badges -->
