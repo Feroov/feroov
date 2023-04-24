@@ -25,9 +25,12 @@
     <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
   </p>
   </div>
+ 
+<div align="center">
+  <img src="https://github.com/Feroov/feroov/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake stats">
+</div>
+<br> 
 <br>
-   
-
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Feroov&icon=2&color=12" alt="GitHub stats">
 </div>
