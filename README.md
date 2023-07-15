@@ -24,8 +24,13 @@
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro">
     <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
   </p>
-  </div>
- 
+
+  <br>
+</div>
+  <div align="center">
+    <h3>Here is your daily dev joke!</h3>
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 <br> 
 <br>
 <br> 
