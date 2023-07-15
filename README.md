@@ -31,3 +31,9 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Feroov&icon=2&color=12" alt="GitHub stats">
 </div>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
