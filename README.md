@@ -26,9 +26,6 @@
   </p>
   </div>
  
-<div align="center">
-  <img src="https://github.com/Feroov/feroov/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake stats">
-</div>
 <br> 
 <br>
 <div align="center">
