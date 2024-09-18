@@ -3,11 +3,13 @@
   <h1</h1>
   <br><br>
 </div>
+<h2 align="center"></h2>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Feroov&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub stats" width="500px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroov&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak Stats" width="500px">
 </div>
-
+<h2 align="center"></h2>
+<br/>
 
 
 <h2 align="center">⚙️ Tech Stack</h2>
