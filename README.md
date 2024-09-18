@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="650">
-  <h1</h1>
-  <br><br>
 </div>
-<h2 align="center"></h2>
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Varela+Round&size=24&duration=3000&pause=500&color=A4B96F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Game+Developer;Web+Developer;Software+Engineer" alt="Typing SVG" /></a>
+</h2>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Feroov&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub stats" width="500px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feroov&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak Stats" width="500px">
