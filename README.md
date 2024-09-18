@@ -62,6 +62,6 @@
 <img height="120" alt="Thanks for visiting me!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Feroov&color=brightgreen)
+<p></p>
+<img src="https://profile-counter.glitch.me/Feroov/count.svg" alt="hit counter" align="center">
 </div>
-
